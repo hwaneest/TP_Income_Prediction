@@ -12,7 +12,7 @@
 
 # Team
 
-### Donghwan Kim (Derrick) / [LinkedIn](www.linkedin.com/in/da-devangelist), [Website](https://hwaneest.github.io/)
+### Donghwan Kim (Derrick) / [LinkedIn](https://www.linkedin.com/in/da-devangelist), [Website](https://hwaneest.github.io/)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
