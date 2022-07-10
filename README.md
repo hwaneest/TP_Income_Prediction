@@ -12,11 +12,7 @@
 
 # Team
 
-<<<<<<< HEAD
-### Donghwan Kim (Derrick) / [LinkedIn](https://www.linkedin.com/in/da-devangelist), [Website](https://hwaneest.github.io/)
-=======
-### Donghwan Kim (Derrick) / [LinkedIn](www.linkedin.com/in/da-devangelist), [Personal.Blog](https://hwaneest.github.io/), [Github](https://github.com/hwaneest)
->>>>>>> 8717739f1e3dfdad3fe42139edb64208b5610c40
+### Donghwan Kim (Derrick) / [LinkedIn](https://www.linkedin.com/in/da-devangelist), [Personal.Blog](https://hwaneest.github.io/), [Github](https://github.com/hwaneest)
  - Nationality : South Korean
  - Education
    - MSc. Business Analytics / National University of Singapore, Singapore
